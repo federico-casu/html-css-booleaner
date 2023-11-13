@@ -13,6 +13,44 @@ figure {
 
 .logo {
     width: 250px;
-    margin-top: 90px;
+    margin-top: 100px;
     margin-left: 10px;
+}
+
+main {
+    margin-left: 10px;
+}
+
+article {
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.author {
+    font-size: 25px;
+    color: rgb(129, 129, 129);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(38, 171, 230);
+}
+
+.date {
+    color: rgb(129, 129, 129);
+}
+
+.article-header {
+    margin-bottom: 30px;
+}
+
+img {
+    height: 500px;
+}
+
+p {
+    font-size: 20px;
 }
