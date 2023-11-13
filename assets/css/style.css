@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-figure {
+.header-background {
     background-image: url('../img/pattern.png');
     background-color: rgb(78, 160, 255);
     width: 100%;
@@ -54,4 +54,9 @@ img {
 p {
     font-size: 20px;
     margin: 20px 0;
+}
+
+ul {
+    margin-left: 1em;
+    font-size: 20px;
 }
